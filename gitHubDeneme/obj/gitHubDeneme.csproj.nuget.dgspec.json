@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\gitHubDeneme\\gitHubDeneme.csproj": {}
+    "C:\\Users\\Yasar\\Source\\Repos\\yasar\\gitHubDeneme\\gitHubDeneme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\gitHubDeneme\\gitHubDeneme.csproj": {
+    "C:\\Users\\Yasar\\Source\\Repos\\yasar\\gitHubDeneme\\gitHubDeneme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\gitHubDeneme\\gitHubDeneme.csproj",
+        "projectUniqueName": "C:\\Users\\Yasar\\Source\\Repos\\yasar\\gitHubDeneme\\gitHubDeneme.csproj",
         "projectName": "gitHubDeneme",
-        "projectPath": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\gitHubDeneme\\gitHubDeneme.csproj",
+        "projectPath": "C:\\Users\\Yasar\\Source\\Repos\\yasar\\gitHubDeneme\\gitHubDeneme.csproj",
         "packagesPath": "C:\\Users\\Yasar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\gitHubDeneme\\obj\\",
+        "outputPath": "C:\\Users\\Yasar\\Source\\Repos\\yasar\\gitHubDeneme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yasar\\AppData\\Roaming\\NuGet\\NuGet.Config",

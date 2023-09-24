@@ -16,7 +16,7 @@ namespace gitHubDeneme.Controllers
         public IActionResult Index()
         {
             return View();
-            //asdfasdfads
+            //asdfasdfads1231
         }
 
         public IActionResult Privacy()

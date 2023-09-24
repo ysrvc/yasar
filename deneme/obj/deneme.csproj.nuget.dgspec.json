@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yasar\\Desktop\\Bright\\Bright\\ASP.NETCoreMVC\\deneme\\deneme.csproj": {}
+    "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\deneme\\deneme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yasar\\Desktop\\Bright\\Bright\\ASP.NETCoreMVC\\deneme\\deneme.csproj": {
+    "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\deneme\\deneme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasar\\Desktop\\Bright\\Bright\\ASP.NETCoreMVC\\deneme\\deneme.csproj",
+        "projectUniqueName": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\deneme\\deneme.csproj",
         "projectName": "deneme",
-        "projectPath": "C:\\Users\\Yasar\\Desktop\\Bright\\Bright\\ASP.NETCoreMVC\\deneme\\deneme.csproj",
+        "projectPath": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\deneme\\deneme.csproj",
         "packagesPath": "C:\\Users\\Yasar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasar\\Desktop\\Bright\\Bright\\ASP.NETCoreMVC\\deneme\\obj\\",
+        "outputPath": "C:\\Users\\Yasar\\Documents\\GitHub\\yasar\\deneme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
